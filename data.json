@@ -1,0 +1,36 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "category": "Non-Veg Starters",
+      "title": "Ginger Fried Chicken",
+      "image": "https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/em-ginger-fried-img.png",
+      "description": "Crispy fried chicken with ginger glaze.",
+      "price": 249
+    },
+    {
+      "id": 2,
+      "category": "Veg Starters",
+      "title": "Paneer Tikka",
+      "image": "https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/em-veg-starters-img.png",
+      "description": "Marinated paneer cubes roasted to perfection.",
+      "price": 199
+    },
+    {
+      "id": 3,
+      "category": "Soups",
+      "title": "Hot & Sour Soup",
+      "image": "https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/em-soup-img.png",
+      "description": "Classic tangy and spicy soup.",
+      "price": 129
+    },
+    {
+      "id": 4,
+      "category": "Desserts",
+      "title": "Chocolate Brownie",
+      "image": "https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/em-coffee-bourbon-img.png",
+      "description": "Warm chocolate brownie with ice cream.",
+      "price": 149
+    }
+  ]
+}
